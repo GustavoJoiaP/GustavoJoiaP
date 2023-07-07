@@ -1,4 +1,3 @@
-<h1 align= "center"><b> 🌎 Hello World 🌎</b></h1>
 <h3> About Me</h3>
 - 🤝 My name is <a href="https://www.linkedin.com/in/gustavo-paziani-971426163/">Gustavo Joia Paziani</a><br>
 - 🇧🇷 I am Brazilian, born in São Bernardo do Campo</a>, São Paulo<br>

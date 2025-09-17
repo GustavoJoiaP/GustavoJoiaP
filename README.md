@@ -3,7 +3,7 @@
 - 🇧🇷 I am Brazilian, born in São Bernardo do Campo</a>, São Paulo<br>
 - 📫 You can reach me at <a href="mailto:joia.gustavo@gmail.com">joia.gustavo@gmail.com</a><br>
 - 🎓 Bachelor of Computer Engineering<br>
-- 🎓 Pos graduate of Software Architecture in progress<br>
+- 🎓 Postgraduate Degree in software architecture<br>
 - 💼 Currently working at <a href="https://www.senaicimatec.com.br/">SENAI CIMATEC</a><br>
 <br>
 <hr>
@@ -15,3 +15,4 @@
   
 </div>
 <br clear="both">
+
